@@ -3,13 +3,12 @@
 ## :memo: Descrição
 Repositório criado no intuito de registro de notas, exercícios e projetos criados no decorrer do estudo da Trilha Java - Programa Start.
 
-## :books: Funcionalidades
+## :books: índice
 
 <!--ts-->
-   * [Sobre](Sobre)
-   * <a href="#Sobre">Sobre</a>
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
+   * <a href="#Sobre o Projeto">Sobre-o-Projeto</a>
+   * <a href="#Sobre a Capgemini">Sobre-a-Capgemini</a>
+   * [Trilha Escolhida](#Trilha-Escolhida)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
@@ -19,24 +18,46 @@ Repositório criado no intuito de registro de notas, exercícios e projetos cria
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-## :books: [Sobre](#Sobre)
+## :books: [Sobre o Projeto](#Sobre-o-Projeto)
 É uma iniciativa da Capgemini para acelerar a formação de novos talentos em tecnologia, valorizando a inclusão e a diversidade, com cursos online gratuitos!
 
-## :wrench: Tecnologias utilizadas
-* HTML;
-* CSS;
-* Javascript;
+## :books: [Sobre a Capgemini](#Sobre-a-Capgemini)
+É uma iniciativa da Capgemini para acelerar a formação de novos talentos em tecnologia, valorizando a inclusão e a diversidade, com cursos online gratuitos!A Capgemini é líder global em serviços de consultoria, tecnologia e engenharia. Somos mais de 300 mil profissionais em mais de 50 países, trabalhando com inovação de ponta para endereçar os desafios e oportunidades dos clientes.
 
-## :rocket: Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
-```
-<linha de comando>
-```
+## :rocket: Trilha Escolhida
+Para este curso, optei por participar da trilha em Java, com a seguinte carga horária:
 
-## :soon: Implementação futura
-* O que será implementado na próxima sprint?
-* Criação da área de informações pessoais;
-* Criação do primeiro link externo.
+* Introdução a Lógica de Programação
+* Lógica de Programação e Algoritmo I
+* Lógica de Programação e Algoritmo II
+* Lógica de Programação e Algoritmo III
+* Fundamentos do HTML5 Módulo 1
+* Fundamentos do HTML5 Módulo 2
+* Fundamentos do HTML5 Módulo 3
+* Fundamentos em CSS
+* JavaScript, jQuery e Ajax
+* AngularCriando APIs com Angular
+* Java Fundamentos
+* Linguagem de Programação em Java
+* Java - Web
+* HTML Avançado
+* CSS Avançado
+
+## :soon: Dependências Necessárias
+
+* Instruções para instalação no Windows
+
+* JAVA
+====
+
+* XAMPP
+
+====
+
+## 🚀 Lógica de Programação com JAVA
+
+Lista de Exercício I
+Lista de Exercício II
 
 ## :handshake: Colaboradores
 <table>
@@ -54,5 +75,5 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 
 ## :dart: Status do projeto
 
-Em fase inicial de criação
+Em processo
 
