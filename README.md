@@ -7,7 +7,7 @@ Repositório criado no intuito de registro de notas, exercícios e projetos cria
 
 <!--ts-->
    * [Sobre o Projeto](#sobre-o-projeto)
-   * [Sobre a Capgemini"](#sobre-a-capgemini)
+   * [Sobre a Capgemini](#sobre-a-capgemini)
    * [Trilha Escolhida](#trilha-escolhida)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
@@ -18,10 +18,10 @@ Repositório criado no intuito de registro de notas, exercícios e projetos cria
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-## Sobre o Projeto 📚 
+📚 ## Sobre o Projeto  
 É uma iniciativa da Capgemini para acelerar a formação de novos talentos em tecnologia, valorizando a inclusão e a diversidade, com cursos online gratuitos!
 
-## :books: [Sobre a Capgemini](#Sobre-a-Capgemini)
+📚 ##  Sobre a Capgemini
 É uma iniciativa da Capgemini para acelerar a formação de novos talentos em tecnologia, valorizando a inclusão e a diversidade, com cursos online gratuitos!A Capgemini é líder global em serviços de consultoria, tecnologia e engenharia. Somos mais de 300 mil profissionais em mais de 50 países, trabalhando com inovação de ponta para endereçar os desafios e oportunidades dos clientes.
 
 ## :rocket: Trilha Escolhida
