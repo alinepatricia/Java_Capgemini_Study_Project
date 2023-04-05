@@ -6,9 +6,9 @@ Repositório criado no intuito de registro de notas, exercícios e projetos cria
 ## :books: índice
 
 <!--ts-->
-   * <a href="#Sobre o Projeto">Sobre-o-Projeto</a>
-   * <a href="#Sobre a Capgemini">Sobre-a-Capgemini</a>
-   * [Trilha Escolhida](#Trilha-Escolhida)
+   * [Sobre o Projeto](#sobre-o-projeto)
+   * [Sobre a Capgemini"](#sobre-a-capgemini)
+   * [Trilha Escolhida](#trilha-escolhida)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
@@ -18,7 +18,7 @@ Repositório criado no intuito de registro de notas, exercícios e projetos cria
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-## :books: [Sobre o Projeto](#Sobre-o-Projeto)
+## Sobre o Projeto 📚 
 É uma iniciativa da Capgemini para acelerar a formação de novos talentos em tecnologia, valorizando a inclusão e a diversidade, com cursos online gratuitos!
 
 ## :books: [Sobre a Capgemini](#Sobre-a-Capgemini)
