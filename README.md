@@ -28,12 +28,8 @@ Repositório criado no intuito de registro de notas, exercícios e projetos cria
 Para este curso, optei por participar da trilha em Java, com a seguinte carga horária:
 
 * Introdução a Lógica de Programação
-* Lógica de Programação e Algoritmo I
-* Lógica de Programação e Algoritmo II
-* Lógica de Programação e Algoritmo III
-* Fundamentos do HTML5 Módulo 1
-* Fundamentos do HTML5 Módulo 2
-* Fundamentos do HTML5 Módulo 3
+* Lógica de Programação e Algoritmo (I, II e III)
+* Fundamentos do HTML5 Módulos (1, 2 e 3)
 * Fundamentos em CSS
 * JavaScript, jQuery e Ajax
 * AngularCriando APIs com Angular
