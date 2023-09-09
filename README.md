@@ -1,4 +1,6 @@
-<h1 align="center">:file_cabinet: Programa Start - Trilha Java</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=180)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=852985&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=500&height=150&lines=Programa+Start!!+Capgemini!!;Trilha+Java!!!!)](https://git.io/typing-svg)
 
 ## :memo: Descrição
 Repositório criado no intuito de registro de notas, exercícios e projetos criados no decorrer do estudo da Trilha Java - Programa Start.
@@ -9,13 +11,20 @@ Repositório criado no intuito de registro de notas, exercícios e projetos cria
    * [Sobre o Projeto](#sobre-o-projeto)
    * [Sobre a Capgemini](#sobre-a-capgemini)
    * [Trilha Escolhida](#trilha-escolhida)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+      * [Logica de Programacao e Algoritmo](#logica-de-programacao-e-algoritmo)
+      * [Fundamentos do HTML5 Modulos (1 2 e 3)](#fundamentos-do-html5)
+      * [Fundamentos em CSS](#fundamentos-em-css)
+      * [Javascript JQuery Ajax](#javascript-jquery-ajax)
+      * [Angular Criando API com Angular](#angular-criando-api-com-angular)
+      * [Java Fundamentos](#java-fundamentos)
+      * [Linguagem de Programacao em Java](#trilha-escolhida)
+      * [Java Web](#java-web)
+      * [HTML Avancado](#html-avancado)
+      * [CSS Avancado](#css-avancado)
+   * [Colaboradores](#colaboradores)
+   * [Conecte-se Comigo](#conecte-se-comigo)
+   * [Status do Projeto](#status-do-projeto)
+<!--te-->
 <!--te-->
 
 ## Sobre o Projeto  
@@ -24,11 +33,10 @@ Repositório criado no intuito de registro de notas, exercícios e projetos cria
 ##  Sobre a Capgemini
 É uma iniciativa da Capgemini para acelerar a formação de novos talentos em tecnologia, valorizando a inclusão e a diversidade, com cursos online gratuitos!A Capgemini é líder global em serviços de consultoria, tecnologia e engenharia. Somos mais de 300 mil profissionais em mais de 50 países, trabalhando com inovação de ponta para endereçar os desafios e oportunidades dos clientes.
 
-## :rocket: Trilha Escolhida
+## Trilha Escolhida
 Para este curso, optei por participar da trilha em Java, com a seguinte carga horária:
 
-* Introdução a Lógica de Programação
-* Lógica de Programação e Algoritmo (I, II e III)
+* Lógica de Programação e Algoritmo
 * Fundamentos do HTML5 Módulos (1, 2 e 3)
 * Fundamentos em CSS
 * JavaScript, jQuery e Ajax
@@ -39,7 +47,7 @@ Para este curso, optei por participar da trilha em Java, com a seguinte carga ho
 * HTML Avançado
 * CSS Avançado
 
-## :soon: Dependências Necessárias
+## Dependências Necessárias
 
 * Instruções para instalação no Windows
 
@@ -50,12 +58,29 @@ Para este curso, optei por participar da trilha em Java, com a seguinte carga ho
 
 ====
 
-## 🚀 Lógica de Programação com JAVA
+## Logica de Programação e Algoritmo
 
-Lista de Exercício I
-Lista de Exercício II
+## Fundamentos do HTML5
 
-## :handshake: Colaboradores
+## Fundamentos em CSS
+
+## JavaScript jQuery Ajax
+
+## Angular Criando API com Angular
+
+## Java Fundamentos
+
+## Linguagem de Programação em Java
+
+## Java Web
+
+## HTML Avancado
+
+## CSS Avancado
+
+
+
+## Colaboradores
 <table>
   <tr>
     <td align="center">
@@ -68,6 +93,18 @@ Lista de Exercício II
     </td>
   </tr>
 </table>
+
+## Conecte-se comigo
+
+[![Linkedin](https://img.shields.io/badge/MeuPerfil-Linkedin-blue)](https://www.linkedin.com/in/aline-patricia/)
+
+[![Dio](https://img.shields.io/badge/MeuPerfil-DIO-blue)](https://www.dio.me/users/line_garbato)
+
+
+## Status do projeto
+
+![EmProgresso](https://img.shields.io/badge/Em-Progresso-blue)
+
 
 ## :dart: Status do projeto
 
